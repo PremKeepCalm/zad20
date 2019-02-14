@@ -3,21 +3,16 @@ body {
 }
 h1 {
     background-color: aqua;
-    color: brown;
 }
 .p1 {
     background-color:gray;
-    color: aqua;
 }
 h2 {
     background-color: green;
-    color: blue;
 }
 .p2 {
     background-color: azure;
-    color: green;
 }
 li {
     background-color: brown;
-    color: blue;
 }
